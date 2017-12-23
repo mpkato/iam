@@ -14,3 +14,9 @@ Windows
 Mac
 - https://docs.anaconda.com/anaconda/install/mac-os
 
+
+# インストールされたAnacondaの確認
+
+
+# Jupyter Notebookの起動
+
