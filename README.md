@@ -3,7 +3,7 @@ Information Analysis and Management
 
 # 各回のNotebook
 - 11回
-	- [MatplotlibとPnadas](https://github.com/mpkato/iam/blob/master/notebooks/11_matplotlib_pandas.ipynb) まずはこちらでJupyterに慣れると良い
+	- [MatplotlibとPandas](https://github.com/mpkato/iam/blob/master/notebooks/11_matplotlib_pandas.ipynb) まずはこちらでJupyterに慣れると良い
 	- [Pythonの基礎](https://github.com/mpkato/iam/blob/master/notebooks/11_python_basics.ipynb) プログラミングはしたことがあるがPythonは初めてな人向け
 
 # Anacondaのインストール
