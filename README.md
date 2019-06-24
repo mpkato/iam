@@ -1,10 +1,6 @@
 # iam
 Information Analysis and Management
 
-質問は
-- メール： kato at dl.kuis.kyoto-u.ac.jp （遅い）
-- http://www.mpkato.net/jp/ の画面右下「Contact Makoto P. Kato」をクリックしてチャット （早い）
-
 # 各回のNotebook
 - 11回
 	- [MatplotlibとPandas](https://github.com/mpkato/iam/blob/master/notebooks/11_matplotlib_pandas.ipynb) まずはこちらでJupyterに慣れると良い
